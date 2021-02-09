@@ -1,0 +1,52 @@
+.header img{
+    background-color: white;
+    height: 45px;
+    width: 95px;
+    display: inline-block;
+}
+img {
+    width: 95px;
+    display: inline-block;
+}
+div {
+    display: inline-block;
+}
+.wrapper {
+    width: 750px;
+    background-color: #D4D2AE;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+h1{
+    display: inline-block;
+    letter-spacing: -1px;
+}
+.header{
+    width: 510px;
+    height: 70px;
+    margin: 0px auto;
+    display: block;
+}
+.main{
+    margin:0 auto;
+    width: 700px;
+    display: block;
+}
+.blue{
+    background-color: #82B4EE ;
+    padding: 15px 15px 12px 15px;
+    border: solid black 4px;
+    margin: 1px 1px 3px 1px;
+}
+.red{
+    background-color: #F36870;
+    padding: 15px 15px 12px 15px;
+    border: solid black 4px;
+    margin: 1px 1px 3px 1px;
+}
+.redadjust{
+    background-color: #F36870;
+    padding: 29px 15px 12px 15px;
+    border: solid black 4px;
+    margin: 1px 1px 3px 1px;
+}
